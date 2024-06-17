@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|solutionrelative:login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|c:\\users\\irham_nrphlax\\documents\\kpl tubes\\database\\login\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|solutionrelative:login\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,11 +23,7 @@
       "RelativeMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|solutionrelative:login\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|solutionrelative:login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|c:\\users\\irham_nrphlax\\documents\\kpl tubes\\database\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|Login\\LoginAndSignUp.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Login\\Login.Designer.cs",
               "ToolTip": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\Login.Designer.cs",
               "RelativeToolTip": "Login\\Login.Designer.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAAAC0AAABCAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAC0AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T08:31:40.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SignUp.cs",
               "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\SignUp.cs",
               "RelativeDocumentMoniker": "Login\\SignUp.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\Login.cs",
               "RelativeDocumentMoniker": "Login\\Login.cs",
@@ -72,12 +72,11 @@
               "RelativeToolTip": "Login\\Login.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:30:19.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T01:30:19.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SignUp.Designer.cs",
               "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\SignUp.Designer.cs",
               "RelativeDocumentMoniker": "Login\\SignUp.Designer.cs",
@@ -90,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\SignUp.cs",
               "RelativeDocumentMoniker": "Login\\SignUp.cs",
@@ -109,8 +108,7 @@
               "ToolTip": "C:\\Users\\irham_nrphlax\\Documents\\KPL TUBES\\Database\\Login\\Login.cs [Design]",
               "RelativeToolTip": "Login\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:30:05.203Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-15T01:30:05.203Z"
             }
           ]
         }
