@@ -1,0 +1,10 @@
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\bin\Debug\Login.exe.config
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\bin\Debug\Login.exe
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\bin\Debug\Login.pdb
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.Form1.resources
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.exe
+C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Login\obj\Debug\Login.pdb

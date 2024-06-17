@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAndSignUp", "Login\LoginAndSignUp.csproj", "{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoginAndSignUp", "LoginAndSignUp", "{91884D1A-66FC-47CA-BAE4-CC9617910F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD} = {91884D1A-66FC-47CA-BAE4-CC9617910F20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28BB7A3A-AEC0-4981-8889-E53AA1DB4CA4}
+	EndGlobalSection
+EndGlobal
