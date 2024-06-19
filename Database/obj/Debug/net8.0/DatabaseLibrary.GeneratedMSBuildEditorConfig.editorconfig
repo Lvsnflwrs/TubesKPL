@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DatabaseLibrary
-build_property.ProjectDir = C:\Users\irham_nrphlax\Documents\KPL TUBES\Database\Database\
+build_property.ProjectDir = C:\KPL\TubesKPL\Database\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
