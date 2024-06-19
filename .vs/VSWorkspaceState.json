@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Login\\Resources"
+    "\\Login",
+    "\\Review"
   ],
-  "SelectedNode": "\\Review",
+  "SelectedNode": "\\Login\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
