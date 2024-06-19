@@ -1,0 +1,15 @@
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\bin\Debug\Review.exe.config
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\bin\Debug\Review.exe
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\bin\Debug\Review.pdb
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.Form1.resources
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.Properties.Resources.resources
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.csproj.GenerateResource.cache
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.exe
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.pdb
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.Form2.resources
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\bin\Debug\Review2.exe
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\bin\Debug\Review2.pdb
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\bin\Debug\Review2.exe.config
+C:\UNIVERSITAS\semester 4\LAB KPL\Review\Review\obj\Debug\Review.csproj.Up2Date
