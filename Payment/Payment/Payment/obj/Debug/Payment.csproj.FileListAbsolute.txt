@@ -1,0 +1,10 @@
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.exe.config
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.exe
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.pdb
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.AssemblyReference.cache
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.exe
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.pdb
