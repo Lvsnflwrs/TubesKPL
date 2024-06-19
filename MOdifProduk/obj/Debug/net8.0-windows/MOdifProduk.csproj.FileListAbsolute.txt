@@ -1,0 +1,17 @@
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\bin\Debug\net8.0-windows\MOdifProduk.exe
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\bin\Debug\net8.0-windows\MOdifProduk.deps.json
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\bin\Debug\net8.0-windows\MOdifProduk.runtimeconfig.json
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\bin\Debug\net8.0-windows\MOdifProduk.dll
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\bin\Debug\net8.0-windows\MOdifProduk.pdb
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.Form1.resources
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.Properties.Resources.resources
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.csproj.GenerateResource.cache
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.AssemblyInfoInputs.cache
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.AssemblyInfo.cs
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.csproj.CoreCompileInputs.cache
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.dll
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\refint\MOdifProduk.dll
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.pdb
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\MOdifProduk.genruntimeconfig.cache
+D:\Konstruksi Perangkat Lunak\HalamanToko\MOdifProduk\obj\Debug\net8.0-windows\ref\MOdifProduk.dll

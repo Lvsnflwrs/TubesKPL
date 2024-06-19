@@ -1,0 +1,22 @@
+{
+  "Products": [
+    {
+      "Id": 0,
+      "Nama": "kamera",
+      "Harga": 1300000,
+      "Stok": 5
+    },
+    {
+      "Id": 0,
+      "Nama": "hp",
+      "Harga": 4500000,
+      "Stok": 2
+    },
+    {
+      "Id": 0,
+      "Nama": "canon",
+      "Harga": 1500000,
+      "Stok": 3
+    }
+  ]
+}
