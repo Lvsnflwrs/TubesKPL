@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KPL\\TubesKPL\\Payment\\Payment_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{566545E7-A91C-437E-BB0A-B670ECFBDCA6}|Payment_\\Payment_.csproj|c:\\kpl\\tubeskpl\\payment\\payment_\\payment_\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566545E7-A91C-437E-BB0A-B670ECFBDCA6}|Payment_\\Payment_.csproj|solutionrelative:payment_\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\KPL\\TubesKPL\\Payment\\Payment_\\Payment_\\Class1.cs",
+              "RelativeDocumentMoniker": "Payment_\\Class1.cs",
+              "ToolTip": "C:\\KPL\\TubesKPL\\Payment\\Payment_\\Payment_\\Class1.cs",
+              "RelativeToolTip": "Payment_\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:00:37.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

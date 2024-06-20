@@ -1,0 +1,6 @@
+C:\KPL\TubesKPL\Payment\Payment\PaymentLibrary_\bin\Debug\PaymentLibrary_.dll
+C:\KPL\TubesKPL\Payment\Payment\PaymentLibrary_\bin\Debug\PaymentLibrary_.pdb
+C:\KPL\TubesKPL\Payment\Payment\PaymentLibrary_\obj\Debug\PaymentLibrary_.csproj.AssemblyReference.cache
+C:\KPL\TubesKPL\Payment\Payment\PaymentLibrary_\obj\Debug\PaymentLibrary_.csproj.CoreCompileInputs.cache
+C:\KPL\TubesKPL\Payment\Payment\PaymentLibrary_\obj\Debug\PaymentLibrary_.dll
+C:\KPL\TubesKPL\Payment\Payment\PaymentLibrary_\obj\Debug\PaymentLibrary_.pdb

@@ -1,6 +1,6 @@
-C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.exe.config
 C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.exe
-C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.pdb
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\PaymentLibrary_.dll
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\PaymentLibrary_.pdb
 C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.AssemblyReference.cache
 C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.Form1.resources
 C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
@@ -8,3 +8,8 @@ C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.GenerateResourc
 C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
 C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.exe
 C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.pdb
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.Form2.resources
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.Form3.resources
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.exe.config
+C:\KPL\TubesKPL\Payment\Payment\Payment\bin\Debug\Payment.pdb
+C:\KPL\TubesKPL\Payment\Payment\Payment\obj\Debug\Payment.csproj.Up2Date
