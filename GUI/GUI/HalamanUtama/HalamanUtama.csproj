@@ -33,8 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BCrypt.Net, Version=0.1.4141.31969, Culture=neutral, PublicKeyToken=f3bc8f8c31beeb49, processorArchitecture=MSIL">
+      <HintPath>..\packages\BCrypt.Net.0.1.0\lib\net35\BCrypt.Net.dll</HintPath>
+    </Reference>
     <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
-      <HintPath>..\packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf, Version=3.25.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
       <HintPath>..\packages\Google.Protobuf.3.25.1\lib\net45\Google.Protobuf.dll</HintPath>
@@ -148,10 +151,32 @@
     <None Include="Resources\Halaman Utama %281%29.png" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GUIHalamanToko\GUIHalamanToko.csproj">
+      <Project>{267558a2-18f0-4094-974b-0106e5b5e826}</Project>
+      <Name>GUIHalamanToko</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GUIKeranjang\GUIKeranjang.csproj">
       <Project>{b8c84f07-032d-45e2-86a3-d1dbc60a4027}</Project>
       <Name>GUIKeranjang</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GUIProfile\GUIProfile.csproj">
+      <Project>{fc41a887-1faf-4868-a46d-bab7637a73fa}</Project>
+      <Name>GUIProfile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GUIWishlist\GUIWishlist.csproj">
+      <Project>{a78b746e-bd0f-4a18-8db6-72011c3df67e}</Project>
+      <Name>GUIWishlist</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HalamanProduk\HalamanProduk.csproj">
+      <Project>{02deb940-f086-4121-9033-c9d2a365a110}</Project>
+      <Name>HalamanProduk</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happy woman makes heart shape by her hand.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

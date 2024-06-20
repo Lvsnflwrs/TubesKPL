@@ -28,26 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.wishlist = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.Keranjang = new System.Windows.Forms.Button();
             this.AddKeranjang = new System.Windows.Forms.Button();
             this.AddWishlist = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.SearchButt = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.bukTokoButton = new System.Windows.Forms.Button();
+            this.halTokoButtton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackgroundImage = global::HalamanUtama.Properties.Resources.Halaman_Utama__1_;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(415, 894);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // listBox1
             // 
@@ -56,7 +49,7 @@
             this.listBox1.ItemHeight = 18;
             this.listBox1.Location = new System.Drawing.Point(34, 448);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(337, 292);
+            this.listBox1.Size = new System.Drawing.Size(337, 310);
             this.listBox1.TabIndex = 1;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
@@ -72,12 +65,17 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(56, 95);
+            this.button3.BackColor = System.Drawing.Color.White;
+            this.button3.BackgroundImage = global::HalamanUtama.Properties.Resources.happy_woman_makes_heart_shape_by_her_hand;
+            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button3.FlatAppearance.BorderSize = 0;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Location = new System.Drawing.Point(41, 69);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(38, 23);
+            this.button3.Size = new System.Drawing.Size(68, 65);
             this.button3.TabIndex = 4;
-            this.button3.Text = "Profile";
-            this.button3.UseVisualStyleBackColor = true;
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Keranjang
             // 
@@ -109,11 +107,68 @@
             this.AddWishlist.UseVisualStyleBackColor = true;
             this.AddWishlist.Click += new System.EventHandler(this.AddWishlist_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(45, 192);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(264, 20);
+            this.textBox1.TabIndex = 9;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // SearchButt
+            // 
+            this.SearchButt.BackColor = System.Drawing.Color.White;
+            this.SearchButt.BackgroundImage = global::HalamanUtama.Properties.Resources.Group_47;
+            this.SearchButt.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.SearchButt.FlatAppearance.BorderSize = 0;
+            this.SearchButt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.SearchButt.Location = new System.Drawing.Point(326, 173);
+            this.SearchButt.Name = "SearchButt";
+            this.SearchButt.Size = new System.Drawing.Size(54, 57);
+            this.SearchButt.TabIndex = 8;
+            this.SearchButt.UseVisualStyleBackColor = false;
+            this.SearchButt.Click += new System.EventHandler(this.SearchButt_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImage = global::HalamanUtama.Properties.Resources.Halaman_Utama__1_;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(415, 894);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // bukTokoButton
+            // 
+            this.bukTokoButton.Location = new System.Drawing.Point(291, 82);
+            this.bukTokoButton.Name = "bukTokoButton";
+            this.bukTokoButton.Size = new System.Drawing.Size(89, 39);
+            this.bukTokoButton.TabIndex = 10;
+            this.bukTokoButton.Text = "Buka Toko";
+            this.bukTokoButton.UseVisualStyleBackColor = true;
+            this.bukTokoButton.Click += new System.EventHandler(this.bukTokoButton_Click);
+            // 
+            // halTokoButtton
+            // 
+            this.halTokoButtton.Location = new System.Drawing.Point(291, 82);
+            this.halTokoButtton.Name = "halTokoButtton";
+            this.halTokoButtton.Size = new System.Drawing.Size(89, 39);
+            this.halTokoButtton.TabIndex = 11;
+            this.halTokoButtton.Text = "Halaman Toko";
+            this.halTokoButtton.UseVisualStyleBackColor = true;
+            this.halTokoButtton.Click += new System.EventHandler(this.halTokoButtton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(414, 893);
+            this.Controls.Add(this.halTokoButtton);
+            this.Controls.Add(this.bukTokoButton);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.SearchButt);
             this.Controls.Add(this.AddWishlist);
             this.Controls.Add(this.AddKeranjang);
             this.Controls.Add(this.Keranjang);
@@ -126,6 +181,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -138,6 +194,10 @@
         private System.Windows.Forms.Button Keranjang;
         private System.Windows.Forms.Button AddKeranjang;
         private System.Windows.Forms.Button AddWishlist;
+        private System.Windows.Forms.Button SearchButt;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button bukTokoButton;
+        private System.Windows.Forms.Button halTokoButtton;
     }
 }
 

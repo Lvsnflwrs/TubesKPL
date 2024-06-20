@@ -69,5 +69,25 @@ namespace GUIWishlist.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Halaman_Wishlist__3_ {
+            get {
+                object obj = ResourceManager.GetObject("Halaman Wishlist (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Halaman_Wishlist__4_ {
+            get {
+                object obj = ResourceManager.GetObject("Halaman Wishlist (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

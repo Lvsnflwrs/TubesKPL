@@ -1,0 +1,2 @@
+D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\NavigationService\obj\Debug\NavigationService.csproj.AssemblyReference.cache
+D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\NavigationService\obj\Debug\NavigationService.csproj.CoreCompileInputs.cache

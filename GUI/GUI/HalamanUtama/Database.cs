@@ -30,6 +30,11 @@ namespace HalamanUtama
             return connection;
         }
 
+        public MySqlConnection Connection
+        {
+            get { return connection; }
+        }
+
         public void Query(string sql)
         {
             try

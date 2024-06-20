@@ -29,9 +29,10 @@
         private void InitializeComponent()
         {
             this.listProduk = new System.Windows.Forms.ListBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.deleteBtn = new System.Windows.Forms.Button();
             this.updateBtn = new System.Windows.Forms.Button();
+            this.BackBtn = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -46,40 +47,56 @@
             this.listProduk.TabIndex = 1;
             this.listProduk.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
+            // deleteBtn
+            // 
+            this.deleteBtn.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.deleteBtn.Location = new System.Drawing.Point(302, 165);
+            this.deleteBtn.Name = "deleteBtn";
+            this.deleteBtn.Size = new System.Drawing.Size(75, 23);
+            this.deleteBtn.TabIndex = 2;
+            this.deleteBtn.Text = "Delete";
+            this.deleteBtn.UseVisualStyleBackColor = false;
+            this.deleteBtn.Click += new System.EventHandler(this.deleteBtn_Click);
+            // 
+            // updateBtn
+            // 
+            this.updateBtn.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.updateBtn.Location = new System.Drawing.Point(221, 165);
+            this.updateBtn.Name = "updateBtn";
+            this.updateBtn.Size = new System.Drawing.Size(75, 23);
+            this.updateBtn.TabIndex = 3;
+            this.updateBtn.Text = "Update";
+            this.updateBtn.UseVisualStyleBackColor = false;
+            this.updateBtn.Click += new System.EventHandler(this.updateBtn_Click);
+            // 
+            // BackBtn
+            // 
+            this.BackBtn.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.BackBtn.Location = new System.Drawing.Point(29, 76);
+            this.BackBtn.Name = "BackBtn";
+            this.BackBtn.Size = new System.Drawing.Size(75, 24);
+            this.BackBtn.TabIndex = 5;
+            this.BackBtn.Text = "Back";
+            this.BackBtn.UseVisualStyleBackColor = false;
+            this.BackBtn.Click += new System.EventHandler(this.BackBtn_Click);
+            // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::GUIWishlist.Properties.Resources.Halaman_Wishlist__2_;
+            this.pictureBox1.BackgroundImage = global::GUIWishlist.Properties.Resources.Halaman_Wishlist__4_;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(-1, -1);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(415, 894);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // deleteBtn
-            // 
-            this.deleteBtn.Location = new System.Drawing.Point(302, 165);
-            this.deleteBtn.Name = "deleteBtn";
-            this.deleteBtn.Size = new System.Drawing.Size(75, 23);
-            this.deleteBtn.TabIndex = 2;
-            this.deleteBtn.Text = "Delete";
-            this.deleteBtn.UseVisualStyleBackColor = true;
-            // 
-            // updateBtn
-            // 
-            this.updateBtn.Location = new System.Drawing.Point(221, 165);
-            this.updateBtn.Name = "updateBtn";
-            this.updateBtn.Size = new System.Drawing.Size(75, 23);
-            this.updateBtn.TabIndex = 3;
-            this.updateBtn.Text = "Update";
-            this.updateBtn.UseVisualStyleBackColor = true;
-            this.updateBtn.Click += new System.EventHandler(this.updateBtn_Click);
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(414, 893);
+            this.Controls.Add(this.BackBtn);
             this.Controls.Add(this.updateBtn);
             this.Controls.Add(this.deleteBtn);
             this.Controls.Add(this.listProduk);
@@ -97,6 +114,7 @@
         private System.Windows.Forms.ListBox listProduk;
         private System.Windows.Forms.Button deleteBtn;
         private System.Windows.Forms.Button updateBtn;
+        private System.Windows.Forms.Button BackBtn;
     }
 }
 

@@ -3,44 +3,127 @@
   "WorkspaceRootPath": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\halamanproduk\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|solutionrelative:halamanproduk\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanproduk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|solutionrelative:halamanproduk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanproduk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|solutionrelative:halamanproduk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{267558A2-18F0-4094-974B-0106E5B5E826}|GUIHalamanToko\\GUIHalamanToko.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihalamantoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{267558A2-18F0-4094-974B-0106E5B5E826}|GUIHalamanToko\\GUIHalamanToko.csproj|solutionrelative:guihalamantoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guiprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|solutionrelative:guiprofile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B746E-BD0F-4A18-8DB6-72011C3DF67E}|GUIWishlist\\GUIWishlist.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guiwishlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78B746E-BD0F-4A18-8DB6-72011C3DF67E}|GUIWishlist\\GUIWishlist.csproj|solutionrelative:guiwishlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\runtimejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\runtimejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guikeranjang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIModifikasiProduk.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihaltoko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIModifikasiProduk.csproj|solutionrelative:guihaltoko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIHalToko.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihaltoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIHalToko.csproj|solutionrelative:guihaltoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIHalToko.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihaltoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIHalToko.csproj|solutionrelative:guihaltoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267558A2-18F0-4094-974B-0106E5B5E826}|GUIHalamanToko\\GUIHalamanToko.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihalamantoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267558A2-18F0-4094-974B-0106E5B5E826}|GUIHalamanToko\\GUIHalamanToko.csproj|solutionrelative:guihalamantoko\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267558A2-18F0-4094-974B-0106E5B5E826}|GUIHalamanToko\\GUIHalamanToko.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihalamantoko\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267558A2-18F0-4094-974B-0106E5B5E826}|GUIHalamanToko\\GUIHalamanToko.csproj|solutionrelative:guihalamantoko\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIHalToko.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guihaltoko\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C31B2B1-CDA7-4367-8998-3FD2C02ADE83}|GUIHalToko\\GUIHalToko.csproj|solutionrelative:guihaltoko\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\LoginAndSignUp.csproj|d:\\games\\database\\database\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\LoginAndSignUp.csproj|d:\\games\\database\\database\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B746E-BD0F-4A18-8DB6-72011C3DF67E}|GUIWishlist\\GUIWishlist.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guiwishlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78B746E-BD0F-4A18-8DB6-72011C3DF67E}|GUIWishlist\\GUIWishlist.csproj|solutionrelative:guiwishlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\LoginAndSignUp.csproj|d:\\games\\database\\database\\login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\resources\\halaman utama (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\resources\\halaman utama (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\LoginAndSignUp.csproj|d:\\games\\database\\database\\login\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDDC90F-E5B1-456B-BE0E-F945E92F8EFD}|..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\LoginAndSignUp.csproj|d:\\games\\database\\database\\login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guikeranjang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|solutionrelative:guikeranjang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanproduk\\databaselibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|solutionrelative:halamanproduk\\databaselibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanproduk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DEB940-F086-4121-9033-C9D2A365A110}|HalamanProduk\\HalamanProduk.csproj|solutionrelative:halamanproduk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guikeranjang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|solutionrelative:guikeranjang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guikeranjang\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|solutionrelative:guikeranjang\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guikeranjang\\runtimejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|solutionrelative:guikeranjang\\runtimejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\gui\\gui\\guikeranjang\\runtimejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C84F07-032D-45E2-86A3-D1DBC60A4027}|GUIKeranjang\\GUIKeranjang.csproj|solutionrelative:guikeranjang\\runtimejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guiprofile\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|solutionrelative:guiprofile\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guiprofile\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|solutionrelative:guiprofile\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\guiprofile\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC41A887-1FAF-4868-A46D-BAB7637A73FA}|GUIProfile\\GUIProfile.csproj|solutionrelative:guiprofile\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\halamanutama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F42777-580E-4FB6-882D-80EC603D8355}|HalamanUtama\\HalamanUtama.csproj|solutionrelative:halamanutama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,117 +133,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RuntimeJSON.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\RuntimeJSON.cs",
-              "RelativeDocumentMoniker": "GUIKeranjang\\RuntimeJSON.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\RuntimeJSON.cs",
-              "RelativeToolTip": "GUIKeranjang\\RuntimeJSON.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAIwGUAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:24:32.473Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "GUIKeranjang\\Form1.Designer.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.Designer.cs",
-              "RelativeToolTip": "GUIKeranjang\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:03:48.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs",
-              "RelativeDocumentMoniker": "GUIKeranjang\\Form1.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs",
-              "RelativeToolTip": "GUIKeranjang\\Form1.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:00:24.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs",
-              "RelativeDocumentMoniker": "GUIKeranjang\\Form1.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs [Design]",
-              "RelativeToolTip": "GUIKeranjang\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T04:57:52.655Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RuntimeJSON.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\RuntimeJSON.cs",
-              "RelativeDocumentMoniker": "HalamanUtama\\RuntimeJSON.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\RuntimeJSON.cs",
-              "RelativeToolTip": "HalamanUtama\\RuntimeJSON.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAuwE0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T03:20:17.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.cs",
-              "RelativeDocumentMoniker": "HalamanUtama\\Form1.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.cs",
-              "RelativeToolTip": "HalamanUtama\\Form1.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAQwIkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T02:08:42.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.cs",
               "RelativeDocumentMoniker": "HalamanUtama\\Form1.cs",
               "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.cs [Design]",
               "RelativeToolTip": "HalamanUtama\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T03:05:24.035Z",
+              "WhenOpened": "2024-06-19T09:03:37.599Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Database.cs",
-              "RelativeDocumentMoniker": "HalamanUtama\\Database.cs",
-              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Database.cs",
-              "RelativeToolTip": "HalamanUtama\\Database.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.cs",
+              "RelativeDocumentMoniker": "HalamanUtama\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.cs",
+              "RelativeToolTip": "HalamanUtama\\Form1.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAYwFMBAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T02:52:44.204Z",
+              "WhenOpened": "2024-06-19T09:03:44.837Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HalamanProduk\\Form1.Designer.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Form1.Designer.cs",
+              "RelativeToolTip": "HalamanProduk\\Form1.Designer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAtwH8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:18:16.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIProfile\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Form1.cs",
+              "RelativeToolTip": "GUIProfile\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAASwDcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:02:16.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Runtime.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalamanToko\\Runtime.cs",
+              "RelativeDocumentMoniker": "GUIHalamanToko\\Runtime.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalamanToko\\Runtime.cs",
+              "RelativeToolTip": "GUIHalamanToko\\Runtime.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAYwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:51:13.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalamanToko\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIHalamanToko\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalamanToko\\Form1.cs",
+              "RelativeToolTip": "GUIHalamanToko\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:50:33.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalamanToko\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIHalamanToko\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalamanToko\\Form1.cs [Design]",
+              "RelativeToolTip": "GUIHalamanToko\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:43:35.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIHalToko\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Form1.cs",
+              "RelativeToolTip": "GUIHalToko\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:30:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Runtime.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Runtime.cs",
+              "RelativeDocumentMoniker": "GUIHalToko\\Runtime.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Runtime.cs",
+              "RelativeToolTip": "GUIHalToko\\Runtime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:25:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIHalToko\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Form1.cs [Design]",
+              "RelativeToolTip": "GUIHalToko\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:23:57.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Games\\Database\\Database\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\Login.cs",
+              "ToolTip": "D:\\Games\\Database\\Database\\Login\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:17:21.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Form1.cs",
+              "RelativeDocumentMoniker": "HalamanProduk\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Form1.cs [Design]",
+              "RelativeToolTip": "HalamanProduk\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:12:06.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Games\\Database\\Database\\Login\\SignUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\SignUp.cs",
+              "ToolTip": "D:\\Games\\Database\\Database\\Login\\SignUp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\SignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:18:19.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Form1.cs",
+              "RelativeDocumentMoniker": "HalamanProduk\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Form1.cs",
+              "RelativeToolTip": "HalamanProduk\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAlwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:05:24.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIWishlist\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIWishlist\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIWishlist\\Form1.cs [Design]",
+              "RelativeToolTip": "GUIWishlist\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:22:44.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "HalamanUtama\\Form1.Designer.cs",
@@ -168,12 +340,203 @@
               "RelativeToolTip": "HalamanUtama\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T02:08:07.529Z",
+              "WhenOpened": "2024-06-19T13:11:04.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Program.cs",
+              "RelativeDocumentMoniker": "GUIHalToko\\Program.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIHalToko\\Program.cs",
+              "RelativeToolTip": "GUIHalToko\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:58:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIWishlist\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIWishlist\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIWishlist\\Form1.cs",
+              "RelativeToolTip": "GUIWishlist\\Form1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADgv2QAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:52:25.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Games\\Database\\Database\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\Login.cs",
+              "ToolTip": "D:\\Games\\Database\\Database\\Login\\Login.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\Login.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:19:03.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Games\\Database\\Database\\Login\\SignUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\SignUp.cs",
+              "ToolTip": "D:\\Games\\Database\\Database\\Login\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:18:14.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Games\\Database\\Database\\Login\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\Login.Designer.cs",
+              "ToolTip": "D:\\Games\\Database\\Database\\Login\\Login.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Games\\Database\\Database\\Login\\Login.Designer.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAMwH8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:49:42.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Database.cs",
+              "RelativeDocumentMoniker": "HalamanUtama\\Database.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Database.cs",
+              "RelativeToolTip": "HalamanUtama\\Database.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:10:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Halaman Utama (1).png -  [English (United States)] - PNG [430x932, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Resources\\Halaman Utama (1).png",
+              "RelativeDocumentMoniker": "HalamanUtama\\Resources\\Halaman Utama (1).png",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Resources\\Halaman Utama (1).png -  [English (United States)] - PNG [430x932, 32 bit, PNG]",
+              "RelativeToolTip": "HalamanUtama\\Resources\\Halaman Utama (1).png -  [English (United States)] - PNG [430x932, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-19T16:39:39.267Z",
+              "EditorCaption": " -  [English (United States)] - PNG [430x932, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIKeranjang\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs [Design]",
+              "RelativeToolTip": "GUIKeranjang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:39:57.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseLibrary.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\DatabaseLibrary.cs",
+              "RelativeDocumentMoniker": "HalamanProduk\\DatabaseLibrary.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\DatabaseLibrary.cs",
+              "RelativeToolTip": "HalamanProduk\\DatabaseLibrary.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:04:13.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Program.cs",
+              "RelativeDocumentMoniker": "HalamanProduk\\Program.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanProduk\\Program.cs",
+              "RelativeToolTip": "HalamanProduk\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:23:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs",
+              "RelativeDocumentMoniker": "GUIKeranjang\\Form1.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\Form1.cs",
+              "RelativeToolTip": "GUIKeranjang\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:41:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RuntimeJSON.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\RuntimeJSON.cs",
+              "RelativeDocumentMoniker": "GUIKeranjang\\RuntimeJSON.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIKeranjang\\RuntimeJSON.cs",
+              "RelativeToolTip": "GUIKeranjang\\RuntimeJSON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:40:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Database.cs",
+              "RelativeDocumentMoniker": "GUIProfile\\Database.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Database.cs",
+              "RelativeToolTip": "GUIProfile\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:39:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Form2.cs",
+              "RelativeDocumentMoniker": "GUIProfile\\Form2.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Form2.cs [Design]",
+              "RelativeToolTip": "GUIProfile\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:39:33.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Form2.cs",
+              "RelativeDocumentMoniker": "GUIProfile\\Form2.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\GUIProfile\\Form2.cs",
+              "RelativeToolTip": "GUIProfile\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:52:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\GUI\\GUI\\HalamanUtama\\Program.cs",
               "RelativeDocumentMoniker": "HalamanUtama\\Program.cs",

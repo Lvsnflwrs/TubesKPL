@@ -63,9 +63,29 @@ namespace HalamanUtama.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Group_47 {
+            get {
+                object obj = ResourceManager.GetObject("Group 47", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Halaman_Utama__1_ {
             get {
                 object obj = ResourceManager.GetObject("Halaman Utama (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap happy_woman_makes_heart_shape_by_her_hand {
+            get {
+                object obj = ResourceManager.GetObject("happy woman makes heart shape by her hand", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

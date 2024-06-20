@@ -24,6 +24,10 @@ namespace HalamanUtama
                 Console.WriteLine(e.Message);
             }
         }
+        public MySqlConnection Connection
+        {
+            get { return connection; }
+        }
 
         public void Query(string sql)
         {

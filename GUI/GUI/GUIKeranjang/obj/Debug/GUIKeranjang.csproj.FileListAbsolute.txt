@@ -27,3 +27,5 @@ D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\GUIKeranjang\obj\Debug\GUIKeranjang.
 D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\GUIKeranjang\obj\Debug\GUIKeran.1B6E3714.Up2Date
 D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\GUIKeranjang\obj\Debug\GUIKeranjang.exe
 D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\GUIKeranjang\obj\Debug\GUIKeranjang.pdb
+D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\GUIKeranjang\bin\Debug\BouncyCastle.Cryptography.dll
+D:\COOLYEAH\Semester 4\KPL\TubesNew\GUI\GUI\GUIKeranjang\bin\Debug\BouncyCastle.Cryptography.xml
