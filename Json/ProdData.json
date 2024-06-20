@@ -5,18 +5,6 @@
       "Nama": "keyboard",
       "Harga": 32000,
       "Stok": 10
-    },
-    {
-      "Id": 8,
-      "Nama": "mouse",
-      "Harga": 32000,
-      "Stok": 10
-    },
-    {
-      "Id": 11,
-      "Nama": "hgh",
-      "Harga": 4,
-      "Stok": 3
     }
   ]
 }
