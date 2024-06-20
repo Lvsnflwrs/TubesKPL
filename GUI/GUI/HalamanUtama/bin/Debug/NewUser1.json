@@ -1,0 +1,10 @@
+{
+  "Products": [
+    {
+      "Id": 9,
+      "Nama": "keyboard",
+      "Harga": 32000,
+      "Stok": 10
+    }
+  ]
+}

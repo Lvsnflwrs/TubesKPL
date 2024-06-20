@@ -1,0 +1,12 @@
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\bin\Debug\net8.0\Database.deps.json
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\bin\Debug\net8.0\Database.dll
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\bin\Debug\net8.0\Database.pdb
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.dll
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\refint\Database.dll
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\Database.pdb
+D:\COOLYEAH\Semester 4\KPL\TubesNew\ProfileSolution\Database\obj\Debug\net8.0\ref\Database.dll

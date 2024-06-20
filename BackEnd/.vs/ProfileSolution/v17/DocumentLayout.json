@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CBA4CB-904A-42B2-8E34-865255B0E5A3}|Database\\Database.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CBA4CB-904A-42B2-8E34-865255B0E5A3}|Database\\Database.csproj|solutionrelative:database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|d:\\coolyeah\\semester 4\\kpl\\tubesnew\\profilesolution\\profileapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|solutionrelative:profileapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\profileapi\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|solutionrelative:profileapi\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821B8A93-73C1-4318-99FD-A055B1BCDD3B}|Profile\\Profile.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\profile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821B8A93-73C1-4318-99FD-A055B1BCDD3B}|Profile\\Profile.csproj|solutionrelative:profile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\profileapi\\profileapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|solutionrelative:profileapi\\profileapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\profileapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|solutionrelative:profileapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\profileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352883F8-9154-485E-905A-96AF1627A143}|ProfileAPI\\ProfileAPI.csproj|solutionrelative:profileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CBA4CB-904A-42B2-8E34-865255B0E5A3}|Database\\Database.csproj|D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CBA4CB-904A-42B2-8E34-865255B0E5A3}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\Profile\\Program.cs",
+              "RelativeDocumentMoniker": "Profile\\Program.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\Profile\\Program.cs",
+              "RelativeToolTip": "Profile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:03:33.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileAPI.http",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\ProfileAPI.http",
+              "RelativeDocumentMoniker": "ProfileAPI\\ProfileAPI.http",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\ProfileAPI.http",
+              "RelativeToolTip": "ProfileAPI\\ProfileAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-10T08:57:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProfileAPI\\appsettings.json",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\appsettings.json",
+              "RelativeToolTip": "ProfileAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T08:56:57.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProfileAPI\\Program.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\Program.cs",
+              "RelativeToolTip": "ProfileAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:43:50.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:39:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:35:13.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ProfileAPI\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "ProfileAPI\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:24:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\Profile.cs",
+              "RelativeDocumentMoniker": "ProfileAPI\\Profile.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TubesNew\\ProfileSolution\\ProfileAPI\\Profile.cs",
+              "RelativeToolTip": "ProfileAPI\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:21:31.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
