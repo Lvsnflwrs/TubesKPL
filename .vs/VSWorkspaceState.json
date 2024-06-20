@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Login",
+    "\\Login\\Properties",
+    "\\Payment",
     "\\Review"
   ],
-  "SelectedNode": "\\Login\\Program.cs",
+  "SelectedNode": "\\Review\\Review.sln",
   "PreviewInSolutionExplorer": false
 }

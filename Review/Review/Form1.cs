@@ -50,7 +50,10 @@ namespace Review
             // Method untuk mendeteksi apakah review spam atau tidak.
             public bool DetectSpam(string review)
             {
-                foreach (string word in review.ToLower().Split(' '))
+                // Ubah review menjadi lowercase dan pecah menjadi kata-kata
+                string[] words = review.ToLower().Split(' ');
+
+                foreach (string word in words)
                 {
                     Dictionary<char, int> charCount = new Dictionary<char, int>();
 
@@ -65,16 +68,33 @@ namespace Review
                             charCount[c] = 1;
                         }
 
+                        // Jika ada karakter yang muncul lebih dari 2 kali, transisi ke CertainSpam
                         if (charCount[c] > 2)
                         {
+                            currentState = State.CertainSpam;
                             return true; // Jika ada karakter yang muncul lebih dari 2 kali, dianggap sebagai spam
                         }
                     }
+
+                    // Jika kata memiliki karakter yang diulang dua kali, transisi ke PossibleSpam
+                    if (charCount.Values.Any(count => count == 2))
+                    {
+                        currentState = State.PossibleSpam;
+                    }
                 }
-                return false; // Tidak ditemukan karakteristik spam pada review.
+
+                // Jika tidak ada karakteristik spam pada review, transisi ke NotSpam
+                currentState = State.NotSpam;
+                return false;
             }
 
+            // Method untuk mendapatkan status spam saat ini
+            public State GetCurrentState()
+            {
+                return currentState;
+            }
         }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
