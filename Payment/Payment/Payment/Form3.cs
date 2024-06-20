@@ -12,30 +12,27 @@ namespace Payment
 {
     public partial class Form3 : Form
     {
+        //constructor untuk menginisialisasi form
         public Form3()
         {
             InitializeComponent();
         }
-
         private void pictureBox3_Click(object sender, EventArgs e)
         {
 
         }
+        private void Form3_Load(object sender, EventArgs e)
+        {
 
+        }
         private void pictureBox4_Click(object sender, EventArgs e)
         {
 
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
             //menuutama show
-        }
-
-        private void Form3_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

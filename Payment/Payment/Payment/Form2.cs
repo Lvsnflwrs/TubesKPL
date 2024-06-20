@@ -12,6 +12,7 @@ namespace Payment
 {
     public partial class Form2 : Form
     {
+        //constructor untuk menginisialisasi form
         public Form2()
         {
             InitializeComponent();
